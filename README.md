@@ -1,3 +1,9 @@
+Corona Tracker: An application which shows number of recovered,infected and deaths caused by covid-19 in whole world as well as in each country.For each country ,it shows bar graph of number of recovered,infected and deaths caused by covid-19.
+
+![CoronaTracker1](https://user-images.githubusercontent.com/68280225/126991300-cc3d482f-cffc-43d5-b59c-381960d4ce4c.JPG)
+
+![CoronaTracker2](https://user-images.githubusercontent.com/68280225/126991339-92d9b0be-5dcb-4808-b925-7aba0fabf501.JPG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
